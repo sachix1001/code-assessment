@@ -1,0 +1,12 @@
+{
+  "name": "code-assessment",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node --test test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
